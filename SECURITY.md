@@ -1,7 +1,6 @@
 # Security Policy
 
-## Supported Versions
-
+## Supported Versions:
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -9,4 +8,4 @@
 | 2.0     | :white_check_mark: |
 | 3.0     | :white_check_mark: |
 
-to report a vulnerability email me at michael@wandoo.ca
+To report a vulnerability you can open a new issue and I will check it(mabye).
